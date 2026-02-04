@@ -39,3 +39,13 @@
 
 # debug information files
 *.dwo
+
+# Apple crash reports
+*.dSYM/
+
+# IDE files
+.DS_Store
+.vscode/
+.idea/
+cmake-build-*/
+build/
